@@ -1,0 +1,19 @@
+body {
+    background-color: #f4f4f4;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+h1 {
+    text-align: center;
+    font-size: 38px;
+    padding-top: 20px;
+}
+p {
+    font-size: 39px;
+}
+h3 {
+    font-size: 32px;
+}
+li {
+    font-size: 29px;
+}
